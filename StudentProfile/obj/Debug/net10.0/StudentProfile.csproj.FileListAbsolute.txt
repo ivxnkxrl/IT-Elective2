@@ -1,0 +1,16 @@
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\bin\Debug\net10.0\StudentProfile.exe
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\bin\Debug\net10.0\StudentProfile.deps.json
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\bin\Debug\net10.0\StudentProfile.runtimeconfig.json
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\bin\Debug\net10.0\StudentProfile.dll
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\bin\Debug\net10.0\StudentProfile.pdb
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\obj\Debug\net10.0\StudentProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\obj\Debug\net10.0\StudentProfile.AssemblyInfoInputs.cache
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\obj\Debug\net10.0\StudentProfile.AssemblyInfo.cs
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\obj\Debug\net10.0\StudentProfile.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\obj\Debug\net10.0\StudentProfile.sourcelink.json
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\obj\Debug\net10.0\StudentProfile.dll
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\obj\Debug\net10.0\refint\StudentProfile.dll
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\obj\Debug\net10.0\StudentProfile.pdb
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\obj\Debug\net10.0\StudentProfile.genruntimeconfig.cache
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\obj\Debug\net10.0\ref\StudentProfile.dll
+C:\Users\Ivan\OneDrive\Documents\IT-Elective2\StudentProfile\obj\Debug\net10.0\StudentP.25E9A138.Up2Date
