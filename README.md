@@ -9,3 +9,4 @@ Projects will be added here as projects are completed.
 | Activity no. 1 | [Student Profile](./StudentProfile/) |
 | Activity no. 2 | [Library App](./LibraryApp/) |
 | Activity no. 3 | [Student Registration Form](./StudentRegistration/) |
+| Activity no. 4 | [Student Management Crud APP](./StudentCrudApp/) |
