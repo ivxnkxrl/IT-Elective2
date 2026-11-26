@@ -10,3 +10,4 @@ Projects will be added here as projects are completed.
 | Activity no. 2 | [Library App](./LibraryApp/) |
 | Activity no. 3 | [Student Registration Form](./StudentRegistration/) |
 | Activity no. 4 | [Student Management Crud APP](./StudentCrudApp/) |
+| Activity no. 5 | [Student Safe App](./StudentSafeApp/) |
